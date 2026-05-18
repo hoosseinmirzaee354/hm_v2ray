@@ -4,6 +4,10 @@
     "dockerfile": "./Dockerfile",
     "context": "."
   },
+   "containerEnv": {
+   "MRH_ADMIN_USERNAME": "ho354m",
+   "MRH_ADMIN_PASSWORD": "hm123456789"
+  },
   "features": {
     "ghcr.io/devcontainers/features/common-utils:2": {
       "installZsh": false
