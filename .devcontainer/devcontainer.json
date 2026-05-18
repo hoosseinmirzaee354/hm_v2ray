@@ -32,5 +32,9 @@
   "forwardPorts": [443, 8080],
   "hostRequirements": {
     "cpus": 2
+  },
+   "containerEnv": {
+   "MRH_ADMIN_USERNAME": "ho354m",
+   "MRH_ADMIN_PASSWORD": "hm123456789"
   }
 }
